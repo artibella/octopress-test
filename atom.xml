@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>My Octopress Blog</title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2011-08-07T18:02:13+02:00</updated>
-  <id>http://yoursite.com/</id>
+  <title>My Octopress Blog Test</title>
+  <link href="http://artibella.github.com//atom.xml" rel="self"/>
+  <link href="http://artibella.github.com//"/>
+  <updated>2011-08-07T18:07:38+02:00</updated>
+  <id>http://artibella.github.com//</id>
   <author>
-    <name>Your Name</name>
+    <name>Artibella</name>
     
   </author>
 
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/blog/2011/08/07/hello-world/"/>
+    <link href="http://artibella.github.com//blog/2011/08/07/hello-world/"/>
     <updated>2011-08-07T17:57:00+02:00</updated>
-    <id>http://yoursite.com/blog/2011/08/07/hello-world</id>
+    <id>http://artibella.github.com//blog/2011/08/07/hello-world</id>
     <content type="html">
 </content>
   </entry>
